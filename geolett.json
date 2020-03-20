@@ -18,9 +18,7 @@
             "UrlMetadata": "https://kartkatalog.geonorge.no/metadata/stormflo/fbb95c67-623f-430a-9fa5-9cfcea8366b3",
             "BufferAvstand": "",
             "TypeReferanse": {
-                "Objekttype": "Stormflo",
-                "Attributt": "20 - års",
-                "Kodeverdi": "StormfloNå_Intervall20år"
+                "Objekttype": "StormfloNå_Intervall20år"
             }
         },
         "Referanse": {
@@ -50,9 +48,7 @@
             "UrlMetadata": "https://kartkatalog.geonorge.no/metadata/stormflo/fbb95c67-623f-430a-9fa5-9cfcea8366b3",
             "BufferAvstand": "",
             "TypeReferanse": {
-                "Objekttype": "Stormflo",
-                "Attributt": "200 - års",
-                "Kodeverdi": "StormfloNå_Intervall200år"
+                "Objekttype": "StormfloNå_Intervall200år"
             }
         },
         "Referanse": {
@@ -82,9 +78,7 @@
             "UrlMetadata": "https://kartkatalog.geonorge.no/metadata/stormflo/fbb95c67-623f-430a-9fa5-9cfcea8366b3",
             "BufferAvstand": "",
             "TypeReferanse": {
-                "Objekttype": "Stormflo",
-                "Attributt": "1000 - års",
-                "Kodeverdi": "StormfloNå_Intervall1000år"
+                "Objekttype": "StormfloNå_Intervall1000år"
             }
         },
         "Referanse": {
@@ -118,9 +112,7 @@
             "UrlMetadata": "https://kartkatalog.geonorge.no/metadata/stormflo/fbb95c67-623f-430a-9fa5-9cfcea8366b3",
             "BufferAvstand": "",
             "TypeReferanse": {
-                "Objekttype": "Stormflo med havnivåstigning",
-                "Attributt": "20 - års",
-                "Kodeverdi": "Stormflo2090_intervall20år"
+                "Objekttype": "Stormflo2090_intervall20år"
             }
         },
         "Referanse": {
@@ -154,9 +146,7 @@
             "UrlMetadata": "https://kartkatalog.geonorge.no/metadata/stormflo/fbb95c67-623f-430a-9fa5-9cfcea8366b3",
             "BufferAvstand": "",
             "TypeReferanse": {
-                "Objekttype": "Stormflo med havnivåstigning",
-                "Attributt": "200 - års",
-                "Kodeverdi": "Stormflo2090_intervall200år"
+                "Objekttype": "Stormflo2090_intervall200år"
             }
         },
         "Referanse": {
@@ -190,9 +180,7 @@
             "UrlMetadata": "https://kartkatalog.geonorge.no/metadata/stormflo/fbb95c67-623f-430a-9fa5-9cfcea8366b3",
             "BufferAvstand": "",
             "TypeReferanse": {
-                "Objekttype": "Stormflo med havnivåstigning",
-                "Attributt": "1000 - års",
-                "Kodeverdi": "Stormflo2090_intervall1000år"
+                "Objekttype": "Stormflo2090_intervall1000år"
             }
         },
         "Referanse": {
