@@ -17,171 +17,26 @@
             "Tittel": "Stormflo",
             "UrlMetadata": "https://kartkatalog.geonorge.no/metadata/stormflo/fbb95c67-623f-430a-9fa5-9cfcea8366b3",
             "BufferAvstand": "",
-            "TypeReferanse": {
-                "Objekttype": "StormfloNå_Intervall20år"
-            }
-        },
-        "Referanse": {
-            "Tek17": {
-                "Href": "https://dibk.no/byggereglene/byggteknisk-forskrift-tek17/7/7-2/",
-                "Tittel": ""
-            }
-        },
-        "TekniskKommentar": "Går på lag/objekttyper i datasettet og ikke kodeverdi"
-    },
-    {
-        "KontekstType": "Byggesak-treff-naturfare-stormflo-200-års",
-        "ID": "E9DB517D-20E9-4EEB-9995-A08F424246C2",
-        "Tittel": "Oversvømmelse fra havet",
-        "ForklarendeTekst": "Oversvømmelse fra havet",
-        "Lenker": [
-            {
-                "Href": "https://www.kartverket.no/kunnskap/vannstand-og-havniva/Hva-er-stormflo/ ",
-                "Tittel": "Les mer om stormflo\n"
-            }
-        ],
-        "Dialogtekst": "Bygget er plassert i en risikosone for ekstrem vannstand (stormflo)",
-        "MuligeTiltak": "- Flytt bygget ut av utsatt område\n- Sikre bygget mot oversvømmelse ved å heve byggegrunnen til flomsikkert nivå, bygge uten kjeller, eller bygge flomvoller eller andre konstruksjoner som holder vannet unna bebyggelsen.\n- Dimensjonere og konstruere byggverket for at det tåler belastning og unngår skade\nDersom du har behov for hjelp, kan du engasjere et rådgivende ingeniørfirma med byggeteknisk og flomfaglig kompetanse",
-        "Veiledning": "",
-        "Datasett": {
-            "Tittel": "Stormflo",
-            "UrlMetadata": "https://kartkatalog.geonorge.no/metadata/stormflo/fbb95c67-623f-430a-9fa5-9cfcea8366b3",
-            "BufferAvstand": "",
-            "TypeReferanse": {
-                "Objekttype": "StormfloNå_Intervall200år"
-            }
-        },
-        "Referanse": {
-            "Tek17": {
-                "Href": "https://dibk.no/byggereglene/byggteknisk-forskrift-tek17/7/7-2/",
-                "Tittel": ""
-            }
-        },
-        "TekniskKommentar": "Går på lag/objekttyper i datasettet og ikke kodeverdi"
-    },
-    {
-        "KontekstType": "Byggesak-treff-naturfare-stormflo-1000-års",
-        "ID": "D15F7C99-C390-45BD-8551-D17C5AFF6844",
-        "Tittel": "Oversvømmelse fra havet",
-        "ForklarendeTekst": "Oversvømmelse fra havet",
-        "Lenker": [
-            {
-                "Href": "https://www.kartverket.no/kunnskap/vannstand-og-havniva/Hva-er-stormflo/ ",
-                "Tittel": "Les mer om stormflo\n"
-            }
-        ],
-        "Dialogtekst": "Bygget er plassert i en risikosone for ekstrem vannstand (stormflo)",
-        "MuligeTiltak": "- Flytt bygget ut av utsatt område\n- Sikre bygget mot oversvømmelse ved å heve byggegrunnen til flomsikkert nivå, bygge uten kjeller, eller bygge flomvoller eller andre konstruksjoner som holder vannet unna bebyggelsen.\n- Dimensjonere og konstruere byggverket for at det tåler belastning og unngår skade\nDersom du har behov for hjelp, kan du engasjere et rådgivende ingeniørfirma med byggeteknisk og flomfaglig kompetanse",
-        "Veiledning": "",
-        "Datasett": {
-            "Tittel": "Stormflo",
-            "UrlMetadata": "https://kartkatalog.geonorge.no/metadata/stormflo/fbb95c67-623f-430a-9fa5-9cfcea8366b3",
-            "BufferAvstand": "",
-            "TypeReferanse": {
-                "Objekttype": "StormfloNå_Intervall1000år"
-            }
-        },
-        "Referanse": {
-            "Tek17": {
-                "Href": "https://dibk.no/byggereglene/byggteknisk-forskrift-tek17/7/7-2/",
-                "Tittel": ""
-            }
-        },
-        "TekniskKommentar": "Går på lag/objekttyper i datasettet og ikke kodeverdi"
-    },
-    {
-        "KontekstType": "Byggesak-treff-naturfare-stormflo-20-års-med-havnivåstigning",
-        "ID": "84AD971B-EF85-4361-96C1-7EEDC43A186E",
-        "Tittel": "Oversvømmelse fra havet",
-        "ForklarendeTekst": "Oversvømmelse fra havet",
-        "Lenker": [
-            {
-                "Href": "https://www.kartverket.no/kunnskap/vannstand-og-havniva/Hva-er-stormflo/ ",
-                "Tittel": "Les mer om stormflo\n"
-            },
-            {
-                "Href": "https://www.kartverket.no/kunnskap/vannstand-og-havniva/framtidig-havniva-langs-norskekysten/",
-                "Tittel": "Les mer om fremtidig havnivå langs norskekysten"
-            }
-        ],
-        "Dialogtekst": "Bygget er plassert i en risikosone for ekstrem vannstand (stormflo) og havnivåstigning",
-        "MuligeTiltak": "- Flytt bygget ut av utsatt område\n- Sikre bygget mot oversvømmelse ved å heve byggegrunnen til flomsikkert nivå, bygge uten kjeller, eller bygge flomvoller eller andre konstruksjoner som holder vannet unna bebyggelsen.\n- Dimensjonere og konstruere byggverket for at det tåler belastning og unngår skade\nDersom du har behov for hjelp, kan du engasjere et rådgivende ingeniørfirma med byggeteknisk og flomfaglig kompetanse",
-        "Veiledning": "",
-        "Datasett": {
-            "Tittel": "Stormflo",
-            "UrlMetadata": "https://kartkatalog.geonorge.no/metadata/stormflo/fbb95c67-623f-430a-9fa5-9cfcea8366b3",
-            "BufferAvstand": "",
-            "TypeReferanse": {
-                "Objekttype": "Stormflo2090_intervall20år"
-            }
-        },
-        "Referanse": {
-            "Tek17": {
-                "Href": "https://dibk.no/byggereglene/byggteknisk-forskrift-tek17/7/7-2/",
-                "Tittel": ""
-            }
-        },
-        "TekniskKommentar": "Går på lag/objekttyper i datasettet og ikke kodeverdi"
-    },
-    {
-        "KontekstType": "Byggesak-treff-naturfare-stormflo-200-års-med-havnivåstigning",
-        "ID": "9B43213A-D9C8-4A2B-A740-DCDF0E100DDC",
-        "Tittel": "Oversvømmelse fra havet",
-        "ForklarendeTekst": "Oversvømmelse fra havet",
-        "Lenker": [
-            {
-                "Href": "https://www.kartverket.no/kunnskap/vannstand-og-havniva/Hva-er-stormflo/ ",
-                "Tittel": "Les mer om stormflo\n"
-            },
-            {
-                "Href": "https://www.kartverket.no/kunnskap/vannstand-og-havniva/framtidig-havniva-langs-norskekysten/",
-                "Tittel": "Les mer om fremtidig havnivå langs norskekysten"
-            }
-        ],
-        "Dialogtekst": "Bygget er plassert i en risikosone for ekstrem vannstand (stormflo) og havnivåstigning",
-        "MuligeTiltak": "- Flytt bygget ut av utsatt område\n- Sikre bygget mot oversvømmelse ved å heve byggegrunnen til flomsikkert nivå, bygge uten kjeller, eller bygge flomvoller eller andre konstruksjoner som holder vannet unna bebyggelsen.\n- Dimensjonere og konstruere byggverket for at det tåler belastning og unngår skade\nDersom du har behov for hjelp, kan du engasjere et rådgivende ingeniørfirma med byggeteknisk og flomfaglig kompetanse",
-        "Veiledning": "",
-        "Datasett": {
-            "Tittel": "Stormflo",
-            "UrlMetadata": "https://kartkatalog.geonorge.no/metadata/stormflo/fbb95c67-623f-430a-9fa5-9cfcea8366b3",
-            "BufferAvstand": "",
-            "TypeReferanse": {
-                "Objekttype": "Stormflo2090_intervall200år"
-            }
-        },
-        "Referanse": {
-            "Tek17": {
-                "Href": "https://dibk.no/byggereglene/byggteknisk-forskrift-tek17/7/7-2/",
-                "Tittel": ""
-            }
-        },
-        "TekniskKommentar": "Går på lag/objekttyper i datasettet og ikke kodeverdi"
-    },
-    {
-        "KontekstType": "Byggesak-treff-naturfare-stormflo-1000-års-med-havnivåstigning",
-        "ID": "6A65F40D-F93F-4A17-A16A-28FFB46565D3",
-        "Tittel": "Oversvømmelse fra havet",
-        "ForklarendeTekst": "Oversvømmelse fra havet",
-        "Lenker": [
-            {
-                "Href": "https://www.kartverket.no/kunnskap/vannstand-og-havniva/Hva-er-stormflo/ ",
-                "Tittel": "Les mer om stormflo\n"
-            },
-            {
-                "Href": "https://www.kartverket.no/kunnskap/vannstand-og-havniva/framtidig-havniva-langs-norskekysten/",
-                "Tittel": "Les mer om fremtidig havnivå langs norskekysten"
-            }
-        ],
-        "Dialogtekst": "Bygget er plassert i en risikosone for ekstrem vannstand (stormflo) og havnivåstigning",
-        "MuligeTiltak": "- Flytt bygget ut av utsatt område\n- Sikre bygget mot oversvømmelse ved å heve byggegrunnen til flomsikkert nivå, bygge uten kjeller, eller bygge flomvoller eller andre konstruksjoner som holder vannet unna bebyggelsen.\n- Dimensjonere og konstruere byggverket for at det tåler belastning og unngår skade\nDersom du har behov for hjelp, kan du engasjere et rådgivende ingeniørfirma med byggeteknisk og flomfaglig kompetanse",
-        "Veiledning": "",
-        "Datasett": {
-            "Tittel": "Stormflo",
-            "UrlMetadata": "https://kartkatalog.geonorge.no/metadata/stormflo/fbb95c67-623f-430a-9fa5-9cfcea8366b3",
-            "BufferAvstand": "",
-            "TypeReferanse": {
-                "Objekttype": "Stormflo2090_intervall1000år"
-            }
+            "TypeReferanse": [
+                {
+                    "Objekttype": "StormfloNå_Intervall20år"
+                },
+                {
+                    "Objekttype": "StormfloNå_Intervall200år"
+                },
+                {
+                    "Objekttype": "StormfloNå_Intervall1000år"
+                },
+                {
+                    "Objekttype": "Stormflo2090_intervall20år"
+                },
+                {
+                    "Objekttype": "Stormflo2090_intervall200år"
+                },
+                {
+                    "Objekttype": "Stormflo2090_intervall1000år"
+                }
+            ]
         },
         "Referanse": {
             "Tek17": {
