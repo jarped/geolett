@@ -1,22 +1,20 @@
 [
     {
-        "KontekstType": "Byggesak-treff-naturfare-stormflo-20-års",
+        "KontekstType": "Byggesak",
         "ID": "474C03B7-8843-44AC-B021-247364751AEC",
         "Tittel": "Oversvømmelse fra havet",
         "ForklarendeTekst": "Oversvømmelse fra havet",
         "Lenker": [
             {
-                "Href": "https://www.kartverket.no/kunnskap/vannstand-og-havniva/Hva-er-stormflo/ \n",
-                "Tittel": "Les mer om stormflo\n"
+                "Href": "https://www.kartverket.no/kunnskap/vannstand-og-havniva/Hva-er-stormflo/",
+                "Tittel": "Les mer om stormflo"
             }
         ],
         "Dialogtekst": "Bygget er plassert i en risikosone for ekstrem vannstand (stormflo)",
         "MuligeTiltak": "- Flytt bygget ut av utsatt område\n- Sikre bygget mot oversvømmelse ved å heve byggegrunnen til flomsikkert nivå, bygge uten kjeller, eller bygge flomvoller eller andre konstruksjoner som holder vannet unna bebyggelsen.\n- Dimensjonere og konstruere byggverket for at det tåler belastning og unngår skade\nDersom du har behov for hjelp, kan du engasjere et rådgivende ingeniørfirma med byggeteknisk og flomfaglig kompetanse",
-        "Veiledning": "",
         "Datasett": {
             "Tittel": "Stormflo",
             "UrlMetadata": "https://kartkatalog.geonorge.no/metadata/stormflo/fbb95c67-623f-430a-9fa5-9cfcea8366b3",
-            "BufferAvstand": "",
             "TypeReferanse": [
                 {
                     "Objekttype": "StormfloNå_Intervall20år"
@@ -41,7 +39,6 @@
         "Referanse": {
             "Tek17": {
                 "Href": "https://dibk.no/byggereglene/byggteknisk-forskrift-tek17/7/7-2/",
-                "Tittel": ""
             }
         },
         "TekniskKommentar": "Går på lag/objekttyper i datasettet og ikke kodeverdi"
